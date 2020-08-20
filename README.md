@@ -1,5 +1,5 @@
 ```python
-TODOROKI DISCORD BOT MUSIC 
+TODOROKI DISCORD MUSIC BOT 
 
 
 © Jovantri Immanuel
