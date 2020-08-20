@@ -9,7 +9,7 @@
 ## Categories 📑
 - [x] Music
 - [x] Fun
-- [x] Weebs
+- [x] Anime
 - [x] My Hero Academia
 - [x] Utility
 
