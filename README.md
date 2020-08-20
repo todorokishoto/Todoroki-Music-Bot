@@ -23,7 +23,7 @@ TODOROKI DISCORD BOT MUSIC
 [![Discord Bots](https://top.gg/api/widget/servers/714330708365148190.svg)](https://top.gg/bot/714330708365148190)
 [![Discord Bots](https://top.gg/api/widget/status/714330708365148190.svg)](https://top.gg/bot/714330708365148190)
 
-## About Bot And Bot 🤖
+## About the Bot 🤖
 > [Invite Me Here](https://discord.com/api/oauth2/authorize?client_id=714330708365148190&permissions=8&scope=bot)
 
 > [Vote Me!](https://top.gg/bot/714330708365148190/vote)
@@ -34,4 +34,4 @@ TODOROKI DISCORD BOT MUSIC
 ## About This Repo 💕
 > How to fork this repo? Just click [here!](https://github.com/todorokishoto/Todoroki-Shouto-Boto/fork) and fork!
 
-> Click [Here](https://github.com/todorokishoto/Todoroki-Shouto-Bot.git) for `clone` link!
+> Click [Here](https://github.com/todorokishoto/Todoroki-Shouto-Bot.git) for the `clone` link!
