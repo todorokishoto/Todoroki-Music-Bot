@@ -1,4 +1,7 @@
 ```python
+TODOROKI DISCORD BOT MUSIC 
+
+
 © Jovantri Immanuel
 © Todoroki Delta
 ```
@@ -14,7 +17,6 @@
 - [x] Utility
 
 ## Status 📥
-![discord.py](https://camo.githubusercontent.com/de59962dbfaf4f3824e3274391935ae6191e44f5/68747470733a2f2f696d672e736869656c64732e696f2f707970692f707976657273696f6e732f646973636f72642e70792e737667)
 [![Discord Bots](https://top.gg/api/widget/owner/714330708365148190.svg)](https://top.gg/bot/714330708365148190)
 [![Discord Bots](https://top.gg/api/widget/lib/714330708365148190.svg)](https://top.gg/bot/714330708365148190)
 [![Discord Bots](https://top.gg/api/widget/upvotes/714330708365148190.svg)](https://top.gg/bot/714330708365148190)
